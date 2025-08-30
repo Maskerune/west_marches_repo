@@ -8,5 +8,5 @@
 [[Stash/- Inventario de Gremio -\|- Inventario de Gremio -]]
 
 
-![Omund's Land.png](/img/user/Omund's%20Land.png)
-![Multiplanar Map.png](/img/user/Multiplanar%20Map.png)
+![Omund's Land.png](/img/user/Images/Omund's%20Land.png)
+![Multiplanar Map.png](/img/user/Images/Multiplanar%20Map.png)
