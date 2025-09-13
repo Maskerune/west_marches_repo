@@ -15,14 +15,22 @@ Cada isla, desde las que descansan en el exterior de Xaode, hasta las más caót
 Tu personaje y el del resto de los jugadores, comenzarán en una de las islas externas llamada Arxos, justo en un pequeño pueblo costero que sobrevive a base de construcción y venta de navíos para otras islas. 
 Este pueblo, es llamado **Corvera**.
 
-#### Corvera
-Tipo de Asentamiento: Pueblo
-Sistema de gobierno: Colonia (==Insertar País aqu==i)
-Población: 2500
-Enfoque: Aserradero y astillero naval
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Tipo de Asentamiento: Pueblo  
+Sistema de gobierno: Colonia (==Insertar País aqu==i)  
+Población: 2500  
+Enfoque: Aserradero y astillero naval  
 Bioma: Bosque (boreal)
 
-Corvera es un pueblo tranquilo, 
+Corvera es un pueblo tranquilo,
+
+</div></div>
+
+
 #### Checklist
 - ¿Cómo llegaste a Corvera?
 	Puede ser que ya vivías ahi o eres extranjero. Si eres extranjero, piensa en una cultura de la vida real, es muy posible que ya exista un continente o país que incluya una cultura parecida.
