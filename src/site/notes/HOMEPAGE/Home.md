@@ -46,5 +46,5 @@ darkmode: false ### marker
 [[NPCs/- Lista de NPCs -\|- Lista de NPCs -]]
 [[Stash/- Inventario de Gremio -\|- Inventario de Gremio -]]
 [[Kit Equiment/- Lista de Kit Categories -\|- Lista de Kit Categories -]]
-
+[[LOCATIONS/- Lista de Locaciones -\|- Lista de Locaciones -]]
 
