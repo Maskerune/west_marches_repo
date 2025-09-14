@@ -22,7 +22,7 @@ Este pueblo, es llamado **Corvera**.
 
 
 Tipo de Asentamiento: Pueblo  
-Sistema de gobierno: Colonia (==Insertar País aqu==i)  
+Sistema de gobierno: Colonia
 Población: 2500  
 Enfoque: Aserradero y astillero naval  
 Bioma: Bosque (boreal)
