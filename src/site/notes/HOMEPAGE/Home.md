@@ -3,7 +3,7 @@
 ---
 
 
-
+[[Guía de Jugador\|Guía de Jugador]]
 ![Arxos HexMap.png](/img/user/Images/Arxos%20HexMap.png)
 
 # Menu
